@@ -1,4 +1,4 @@
-//My game for this computer vision assignment is fruit ninja styled game but without the fruits
+//My game is a fruit ninja styled game but instead of fruits, there are bubbles!
 //The player's objective is to slice all the circles or bubbles and obtain the highest score you can
 //you have 20 seconds to slice as many fruits as you can
 //The name of the game is "Circle Slice" 
